@@ -1,0 +1,13 @@
+#text{
+   -fx-background: #EEEEEE;
+   -fx-border-radius: 14px;
+}
+
+#body{
+   -fx-background: #ffffff;
+}
+
+#btn{
+   -fx-background: #64d862;
+   -fx-border-radius: 41px;
+}
